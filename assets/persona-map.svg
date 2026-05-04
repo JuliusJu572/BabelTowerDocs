@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="720" viewBox="0 0 1320 720">
+  <rect width="1320" height="720" fill="#f8fafc"/>
+  <text x="660" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#0f172a">早期 ICP / JTBD 地图</text>
+  <text x="660" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#475569">先服务高动机用户，再扩展到娱乐型用户和机构买家</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="145" width="360" height="410" rx="22" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+    <text x="250" y="190" text-anchor="middle" font-size="23" font-weight="700" fill="#1e40af">高意愿英语表达用户</text>
+    <text x="105" y="235" font-size="15" fill="#1e3a8a">任务：在真实压力场景中说得出来。</text>
+    <text x="105" y="270" font-size="15" fill="#1e3a8a">触发：考试、留学、外企面试、汇报。</text>
+    <text x="105" y="305" font-size="15" fill="#1e3a8a">痛点：知道单词，但开口时卡住。</text>
+    <text x="105" y="340" font-size="15" fill="#1e3a8a">替代：Speak、Duolingo、Praktika、家教。</text>
+    <text x="105" y="390" font-size="15" font-weight="700" fill="#1e40af">信心：Medium</text>
+    <text x="105" y="420" font-size="14" fill="#1e3a8a">市场和竞品验证充分，但仍需用户访谈。</text>
+    <rect x="480" y="145" width="360" height="410" rx="22" fill="#ffedd5" stroke="#f97316" stroke-width="3"/>
+    <text x="660" y="190" text-anchor="middle" font-size="23" font-weight="700" fill="#9a3412">娱乐优先学习用户</text>
+    <text x="515" y="235" font-size="15" fill="#7c2d12">任务：不想上课，但愿意在剧情里练。</text>
+    <text x="515" y="270" font-size="15" fill="#7c2d12">触发：看到高钩子 Demo、想解锁结局。</text>
+    <text x="515" y="305" font-size="15" fill="#7c2d12">痛点：教育 App 太像任务，难坚持。</text>
+    <text x="515" y="340" font-size="15" fill="#7c2d12">替代：短剧 App、互动故事、AI 角色聊天。</text>
+    <text x="515" y="390" font-size="15" font-weight="700" fill="#9a3412">信心：Medium-Low</text>
+    <text x="515" y="420" font-size="14" fill="#7c2d12">需要 Demo 数据验证复刷和付费意愿。</text>
+    <rect x="890" y="145" width="360" height="410" rx="22" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+    <text x="1070" y="190" text-anchor="middle" font-size="23" font-weight="700" fill="#166534">机构/企业训练买家</text>
+    <text x="925" y="235" font-size="15" fill="#14532d">任务：规模化训练沟通和角色扮演。</text>
+    <text x="925" y="270" font-size="15" fill="#14532d">触发：就业培训、销售训练、合规事件。</text>
+    <text x="925" y="305" font-size="15" fill="#14532d">痛点：真人教练成本高，LMS 太被动。</text>
+    <text x="925" y="340" font-size="15" fill="#14532d">替代：教练、Coursera、Muzzy Lane、Virti。</text>
+    <text x="925" y="390" font-size="15" font-weight="700" fill="#166534">信心：Medium</text>
+    <text x="925" y="420" font-size="14" fill="#14532d">市场存在，但需 B 端试点验证采购路径。</text>
+  </g>
+</svg>

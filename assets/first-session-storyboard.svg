@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="620" viewBox="0 0 1320 620">
+  <rect width="1320" height="620" fill="#101827"/>
+  <text x="660" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#f8fafc">第一次打开 BabelTower：用户不是上课，而是入戏</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="60" y="130" width="210" height="330" rx="22" fill="#1e293b" stroke="#475569"/>
+    <rect x="85" y="160" width="160" height="230" rx="15" fill="#0f172a"/>
+    <text x="165" y="260" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">首页短剧卡</text>
+    <text x="165" y="302" text-anchor="middle" font-size="14" fill="#cbd5e1">科幻 / 职场 / 旅行</text>
+    <text x="165" y="420" text-anchor="middle" font-size="15" fill="#93c5fd">用户先被故事吸引</text>
+    <rect x="310" y="130" width="210" height="330" rx="22" fill="#1e293b" stroke="#475569"/>
+    <rect x="335" y="160" width="160" height="230" rx="15" fill="#312e81"/>
+    <text x="415" y="250" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">剧情节点</text>
+    <text x="415" y="292" text-anchor="middle" font-size="14" fill="#ddd6fe">视频 + 字幕 + 冲突</text>
+    <text x="415" y="420" text-anchor="middle" font-size="15" fill="#c4b5fd">先看懂发生了什么</text>
+    <rect x="560" y="130" width="210" height="330" rx="22" fill="#1e293b" stroke="#475569"/>
+    <rect x="585" y="160" width="160" height="230" rx="15" fill="#0c4a6e"/>
+    <text x="665" y="245" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">选择/语音</text>
+    <text x="665" y="288" text-anchor="middle" font-size="14" fill="#bae6fd">你要相信谁？</text>
+    <text x="665" y="313" text-anchor="middle" font-size="14" fill="#bae6fd">你要怎么解释？</text>
+    <text x="665" y="420" text-anchor="middle" font-size="15" fill="#7dd3fc">用户从观众变成角色</text>
+    <rect x="810" y="130" width="210" height="330" rx="22" fill="#1e293b" stroke="#475569"/>
+    <rect x="835" y="160" width="160" height="230" rx="15" fill="#7f1d1d"/>
+    <text x="915" y="245" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">结局/成就</text>
+    <text x="915" y="288" text-anchor="middle" font-size="14" fill="#fecaca">你改变了路线</text>
+    <text x="915" y="420" text-anchor="middle" font-size="15" fill="#fca5a5">结果反馈情绪</text>
+    <rect x="1060" y="130" width="210" height="330" rx="22" fill="#1e293b" stroke="#475569"/>
+    <rect x="1085" y="160" width="160" height="230" rx="15" fill="#14532d"/>
+    <text x="1165" y="245" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">能力复盘</text>
+    <text x="1165" y="288" text-anchor="middle" font-size="14" fill="#bbf7d0">表达优化 / 跟读</text>
+    <text x="1165" y="420" text-anchor="middle" font-size="15" fill="#86efac">学习发生在剧情之后</text>
+  </g>
+</svg>

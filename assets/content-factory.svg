@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="620" viewBox="0 0 1320 620">
+  <rect width="1320" height="620" fill="#0f172a"/>
+  <text x="660" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#f8fafc">内容工厂：从故事想法到可运行 Drama Package</text>
+  <defs><marker id="a" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 z" fill="#94a3b8"/></marker></defs>
+  <g font-family="Arial, sans-serif">
+    <rect x="55" y="190" width="170" height="110" rx="18" fill="#2563eb"/><text x="140" y="235" text-anchor="middle" font-size="19" font-weight="700" fill="white">剧本设定</text><text x="140" y="263" text-anchor="middle" font-size="13" fill="#dbeafe">冲突 / 角色 / 目标</text>
+    <rect x="270" y="190" width="170" height="110" rx="18" fill="#7c3aed"/><text x="355" y="235" text-anchor="middle" font-size="19" font-weight="700" fill="white">互动图</text><text x="355" y="263" text-anchor="middle" font-size="13" fill="#ede9fe">节点 / 变量 / 结局</text>
+    <rect x="485" y="190" width="170" height="110" rx="18" fill="#0ea5e9"/><text x="570" y="235" text-anchor="middle" font-size="19" font-weight="700" fill="white">资产生产</text><text x="570" y="263" text-anchor="middle" font-size="13" fill="#e0f2fe">角色 / 场景 / 分镜</text>
+    <rect x="700" y="190" width="170" height="110" rx="18" fill="#f97316"/><text x="785" y="235" text-anchor="middle" font-size="19" font-weight="700" fill="white">视频节点</text><text x="785" y="263" text-anchor="middle" font-size="13" fill="#ffedd5">离线生成 / 审核</text>
+    <rect x="915" y="190" width="170" height="110" rx="18" fill="#16a34a"/><text x="1000" y="235" text-anchor="middle" font-size="19" font-weight="700" fill="white">学习复盘</text><text x="1000" y="263" text-anchor="middle" font-size="13" fill="#dcfce7">表达 / 跟读 / 成就</text>
+    <rect x="1130" y="190" width="150" height="110" rx="18" fill="#334155"/><text x="1205" y="235" text-anchor="middle" font-size="19" font-weight="700" fill="white">Package</text><text x="1205" y="263" text-anchor="middle" font-size="13" fill="#cbd5e1">运行时合约</text>
+    <line x1="225" y1="245" x2="260" y2="245" stroke="#94a3b8" stroke-width="4" marker-end="url(#a)"/>
+    <line x1="440" y1="245" x2="475" y2="245" stroke="#94a3b8" stroke-width="4" marker-end="url(#a)"/>
+    <line x1="655" y1="245" x2="690" y2="245" stroke="#94a3b8" stroke-width="4" marker-end="url(#a)"/>
+    <line x1="870" y1="245" x2="905" y2="245" stroke="#94a3b8" stroke-width="4" marker-end="url(#a)"/>
+    <line x1="1085" y1="245" x2="1120" y2="245" stroke="#94a3b8" stroke-width="4" marker-end="url(#a)"/>
+    <rect x="185" y="405" width="950" height="82" rx="18" fill="#1e293b" stroke="#475569"/>
+    <text x="660" y="438" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">关键壁垒不是单次生成，而是可复用的互动叙事生产线</text>
+    <text x="660" y="466" text-anchor="middle" font-size="15" fill="#cbd5e1">角色模板、冲突模板、变量模板、评分模板和审核流程决定内容能否规模化</text>
+  </g>
+</svg>

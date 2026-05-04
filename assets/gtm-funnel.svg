@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="720" viewBox="0 0 1120 720">
+  <rect width="1120" height="720" fill="#0b1020"/>
+  <text x="560" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#f8fafc">GTM：先证明一集，再证明一个场景</text>
+  <g font-family="Arial, sans-serif">
+    <polygon points="210,130 910,130 830,240 290,240" fill="#2563eb"/>
+    <text x="560" y="187" text-anchor="middle" font-size="24" font-weight="700" fill="white">1. 强 Demo 传播</text>
+    <polygon points="290,260 830,260 760,365 360,365" fill="#7c3aed"/>
+    <text x="560" y="320" text-anchor="middle" font-size="24" font-weight="700" fill="white">2. 封测与行为数据</text>
+    <polygon points="360,385 760,385 700,490 420,490" fill="#f97316"/>
+    <text x="560" y="445" text-anchor="middle" font-size="24" font-weight="700" fill="white">3. 垂直付费场景</text>
+    <polygon points="420,510 700,510 655,615 465,615" fill="#0f766e"/>
+    <text x="560" y="570" text-anchor="middle" font-size="24" font-weight="700" fill="white">4. B 端试点</text>
+    <text x="560" y="675" text-anchor="middle" font-size="16" fill="#cbd5e1">每一层都回答一个去风险问题：是否好玩、是否愿意开口、是否愿意付费、是否可被机构采购。</text>
+  </g>
+</svg>

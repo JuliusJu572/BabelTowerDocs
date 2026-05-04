@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="720" viewBox="0 0 1320 720">
+  <rect width="1320" height="720" fill="#ffffff"/>
+  <text x="660" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">竞品能力矩阵</text>
+  <text x="660" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#475569">BabelTower 的差异不是单点更强，而是组合：剧情强、交互深、学习可复盘、结局可重玩</text>
+  <g font-family="Arial, sans-serif" font-size="15">
+    <rect x="70" y="125" width="1180" height="56" fill="#0f172a"/>
+    <text x="105" y="160" fill="white" font-weight="700">产品类型</text>
+    <text x="340" y="160" fill="white" font-weight="700">剧情感</text>
+    <text x="505" y="160" fill="white" font-weight="700">AI交互</text>
+    <text x="680" y="160" fill="white" font-weight="700">学习目标</text>
+    <text x="860" y="160" fill="white" font-weight="700">测评反馈</text>
+    <text x="1040" y="160" fill="white" font-weight="700">复刷价值</text>
+
+    <g fill="#f8fafc"><rect x="70" y="181" width="1180" height="74"/></g>
+    <text x="105" y="225" fill="#0f172a" font-weight="700">LOLA Speak 类</text>
+    <text x="350" y="225" fill="#334155">中</text><text x="520" y="225" fill="#334155">中-强</text><text x="700" y="225" fill="#334155">强</text><text x="885" y="225" fill="#334155">强</text><text x="1070" y="225" fill="#334155">中</text>
+
+    <rect x="70" y="255" width="1180" height="74" fill="#eef2ff"/>
+    <text x="105" y="299" fill="#0f172a" font-weight="700">Speak / Duolingo / Praktika</text>
+    <text x="350" y="299" fill="#334155">弱-中</text><text x="520" y="299" fill="#334155">强</text><text x="700" y="299" fill="#334155">强</text><text x="885" y="299" fill="#334155">强</text><text x="1070" y="299" fill="#334155">中</text>
+
+    <rect x="70" y="329" width="1180" height="74" fill="#f8fafc"/>
+    <text x="105" y="373" fill="#0f172a" font-weight="700">StoReel / Dramai / Shortly</text>
+    <text x="350" y="373" fill="#334155">强</text><text x="520" y="373" fill="#334155">弱-中</text><text x="700" y="373" fill="#334155">弱</text><text x="885" y="373" fill="#334155">弱</text><text x="1070" y="373" fill="#334155">中</text>
+
+    <rect x="70" y="403" width="1180" height="74" fill="#eef2ff"/>
+    <text x="105" y="447" fill="#0f172a" font-weight="700">Character.AI / StoryZone</text>
+    <text x="350" y="447" fill="#334155">中</text><text x="520" y="447" fill="#334155">强</text><text x="700" y="447" fill="#334155">弱</text><text x="885" y="447" fill="#334155">弱</text><text x="1070" y="447" fill="#334155">中-强</text>
+
+    <rect x="70" y="477" width="1180" height="86" fill="#ede9fe"/>
+    <text x="105" y="527" fill="#4c1d95" font-weight="700">BabelTower</text>
+    <text x="350" y="527" fill="#4c1d95" font-weight="700">强</text><text x="520" y="527" fill="#4c1d95" font-weight="700">强</text><text x="700" y="527" fill="#4c1d95" font-weight="700">中-强</text><text x="885" y="527" fill="#4c1d95" font-weight="700">强</text><text x="1070" y="527" fill="#4c1d95" font-weight="700">强</text>
+
+    <line x1="300" y1="125" x2="300" y2="563" stroke="#cbd5e1"/>
+    <line x1="470" y1="125" x2="470" y2="563" stroke="#cbd5e1"/>
+    <line x1="645" y1="125" x2="645" y2="563" stroke="#cbd5e1"/>
+    <line x1="830" y1="125" x2="830" y2="563" stroke="#cbd5e1"/>
+    <line x1="1010" y1="125" x2="1010" y2="563" stroke="#cbd5e1"/>
+
+    <text x="90" y="625" fill="#475569" font-size="16">定位金句：不是把课程做成短剧，而是把学习藏进剧情；不是让 AI 降低短剧成本，而是让短剧变得可进入、可对话、可改变。</text>
+  </g>
+</svg>

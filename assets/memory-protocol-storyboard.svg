@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="720" viewBox="0 0 1320 720">
+  <rect width="1320" height="720" fill="#0f172a"/>
+  <text x="660" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#f8fafc">The Memory Protocol：从剧情危机到表达训练</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="120" width="360" height="210" rx="22" fill="#1e293b" stroke="#334155"/>
+    <text x="250" y="165" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">1. 进入 Aster Lab</text>
+    <text x="250" y="205" text-anchor="middle" font-size="15" fill="#cbd5e1">用户是 external ethics observer，拥有只读审计权限。</text>
+    <text x="250" y="235" text-anchor="middle" font-size="15" fill="#cbd5e1">第一幕先建立可信身份，而不是让用户突然拯救世界。</text>
+    <text x="250" y="282" text-anchor="middle" font-size="16" fill="#93c5fd">学习点：自我定位、技术解释、审计语境</text>
+    <rect x="480" y="120" width="360" height="210" rx="22" fill="#1e293b" stroke="#334155"/>
+    <text x="660" y="165" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">2. 机密文件出现</text>
+    <text x="660" y="205" text-anchor="middle" font-size="15" fill="#cbd5e1">PUBLIC CONSENT: UNVERIFIED</text>
+    <text x="660" y="235" text-anchor="middle" font-size="15" fill="#cbd5e1">用户必须决定相信技术负责人、记者，还是自己查档案。</text>
+    <text x="660" y="282" text-anchor="middle" font-size="16" fill="#fca5a5">学习点：提出问题、解释风险、保存证据</text>
+    <rect x="890" y="120" width="360" height="210" rx="22" fill="#1e293b" stroke="#334155"/>
+    <text x="1070" y="165" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">3. 语音表达立场</text>
+    <text x="1070" y="205" text-anchor="middle" font-size="15" fill="#cbd5e1">用户不再只是点击选项，而要用英语说清楚自己的判断。</text>
+    <text x="1070" y="235" text-anchor="middle" font-size="15" fill="#cbd5e1">系统评估表达清晰度、逻辑和意图。</text>
+    <text x="1070" y="282" text-anchor="middle" font-size="16" fill="#86efac">学习点：让观点在压力中成立</text>
+    <rect x="220" y="405" width="360" height="210" rx="22" fill="#1e293b" stroke="#334155"/>
+    <text x="400" y="450" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">4. 共同签署见证记录</text>
+    <text x="400" y="490" text-anchor="middle" font-size="15" fill="#cbd5e1">用户起草，但需要 Mira 和 Leo co-sign。</text>
+    <text x="400" y="520" text-anchor="middle" font-size="15" fill="#cbd5e1">互动不是随意开挂，而是把权力设计在剧情制度里。</text>
+    <text x="400" y="567" text-anchor="middle" font-size="16" fill="#c4b5fd">产品点：用户有影响力，但边界可信</text>
+    <rect x="740" y="405" width="360" height="210" rx="22" fill="#1e293b" stroke="#334155"/>
+    <text x="920" y="450" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">5. 多结局与隐藏路线</text>
+    <text x="920" y="490" text-anchor="middle" font-size="15" fill="#cbd5e1">透明披露、安静补丁、人工覆写、Consent Mandate。</text>
+    <text x="920" y="520" text-anchor="middle" font-size="15" fill="#cbd5e1">二周目再追 CASE 07-B 和 Aria 泄密线。</text>
+    <text x="920" y="567" text-anchor="middle" font-size="16" fill="#fbbf24">商业点：复刷来自故事后果，而不是题库重复</text>
+  </g>
+</svg>

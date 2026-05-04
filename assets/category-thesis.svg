@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <rect width="1280" height="640" fill="#0b1020"/>
+  <text x="640" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#f8fafc">品类假设：Playable AI Dramas</text>
+  <text x="640" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#cbd5e1">不是再做教育 App，也不是再做 AI 短剧，而是把短剧变成可进入、可对话、可改变的学习体验</text>
+  <defs>
+    <marker id="arr" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 z" fill="#94a3b8"/></marker>
+  </defs>
+  <g font-family="Arial, sans-serif">
+    <circle cx="250" cy="280" r="112" fill="#f97316" opacity="0.9"/>
+    <text x="250" y="265" text-anchor="middle" font-size="24" font-weight="700" fill="white">短剧爽感</text>
+    <text x="250" y="298" text-anchor="middle" font-size="15" fill="#ffedd5">钩子 / 反转 / 追更</text>
+    <circle cx="640" cy="280" r="112" fill="#7c3aed" opacity="0.9"/>
+    <text x="640" y="265" text-anchor="middle" font-size="24" font-weight="700" fill="white">AI 交互</text>
+    <text x="640" y="298" text-anchor="middle" font-size="15" fill="#ede9fe">说话 / 选择 / 角色回应</text>
+    <circle cx="1030" cy="280" r="112" fill="#0f766e" opacity="0.9"/>
+    <text x="1030" y="265" text-anchor="middle" font-size="24" font-weight="700" fill="white">学习复盘</text>
+    <text x="1030" y="298" text-anchor="middle" font-size="15" fill="#ccfbf1">表达 / 文化 / 决策</text>
+    <line x1="365" y1="280" x2="512" y2="280" stroke="#94a3b8" stroke-width="4" marker-end="url(#arr)"/>
+    <line x1="755" y1="280" x2="902" y2="280" stroke="#94a3b8" stroke-width="4" marker-end="url(#arr)"/>
+    <rect x="390" y="450" width="500" height="90" rx="20" fill="#1e293b" stroke="#475569"/>
+    <text x="640" y="486" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">用户为了剧情而表达</text>
+    <text x="640" y="520" text-anchor="middle" font-size="16" fill="#cbd5e1">为了改变结局而思考，最后自然获得能力提升</text>
+  </g>
+</svg>

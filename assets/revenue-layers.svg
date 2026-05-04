@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="720" viewBox="0 0 1120 720">
+  <rect width="1120" height="720" fill="#f8fafc"/>
+  <text x="560" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#0f172a">收入不是一次性设计，而是逐层验证</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="190" y="460" width="740" height="105" rx="20" fill="#f97316"/>
+    <text x="560" y="502" text-anchor="middle" font-size="24" font-weight="700" fill="white">第一层：C 端内容解锁</text>
+    <text x="560" y="535" text-anchor="middle" font-size="15" fill="#ffedd5">免费第一集、季票、支线、隐藏结局、角色互动次数</text>
+    <rect x="250" y="315" width="620" height="105" rx="20" fill="#7c3aed"/>
+    <text x="560" y="357" text-anchor="middle" font-size="24" font-weight="700" fill="white">第二层：语言/表达训练订阅</text>
+    <text x="560" y="390" text-anchor="middle" font-size="15" fill="#ede9fe">IELTS、面试、职场英语、表达复盘、跟读句库</text>
+    <rect x="310" y="170" width="500" height="105" rx="20" fill="#0f766e"/>
+    <text x="560" y="212" text-anchor="middle" font-size="24" font-weight="700" fill="white">第三层：B 端情境训练</text>
+    <text x="560" y="245" text-anchor="middle" font-size="15" fill="#ccfbf1">高校、企业、销售、客服、合规、跨文化沟通</text>
+    <text x="560" y="625" text-anchor="middle" font-size="17" fill="#475569">先用内容吸引用户，再用训练价值提升付费，再用模板化场景进入 B 端。</text>
+  </g>
+</svg>

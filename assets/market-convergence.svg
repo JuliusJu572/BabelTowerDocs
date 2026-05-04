@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="700" viewBox="0 0 1280 700">
+  <rect width="1280" height="700" fill="#f8fafc"/>
+  <text x="640" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#0f172a">为什么现在：四条趋势正在汇合</text>
+  <text x="640" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#475569">BabelTower 的窗口期来自消费习惯、AI 交互、训练需求和内容生产成本的同时变化</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="90" y="145" width="470" height="135" rx="20" fill="#ffedd5" stroke="#f97316" stroke-width="3"/>
+    <text x="125" y="187" font-size="23" font-weight="700" fill="#9a3412">短剧付费习惯成熟</text>
+    <text x="125" y="222" font-size="15" fill="#7c2d12">用户已经习惯移动端追剧情、等反转、解锁下一集。</text>
+    <text x="125" y="248" font-size="15" fill="#7c2d12">BabelTower 不需要从零教育“短剧是什么”。</text>
+    <rect x="720" y="145" width="470" height="135" rx="20" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+    <text x="755" y="187" font-size="23" font-weight="700" fill="#1e40af">AI speaking 被验证</text>
+    <text x="755" y="222" font-size="15" fill="#1e3a8a">Duolingo、Speak 等产品证明对话式语言学习正在成为核心能力。</text>
+    <text x="755" y="248" font-size="15" fill="#1e3a8a">用户愿意为开口练习和反馈付费。</text>
+    <rect x="90" y="405" width="470" height="135" rx="20" fill="#ede9fe" stroke="#7c3aed" stroke-width="3"/>
+    <text x="125" y="447" font-size="23" font-weight="700" fill="#5b21b6">AI roleplay 进入训练</text>
+    <text x="125" y="482" font-size="15" fill="#4c1d95">高校和企业开始用角色扮演模拟训练沟通、销售、合规和面试。</text>
+    <text x="125" y="508" font-size="15" fill="#4c1d95">这说明“情境中练能力”正在被接受。</text>
+    <rect x="720" y="405" width="470" height="135" rx="20" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+    <text x="755" y="447" font-size="23" font-weight="700" fill="#166534">AI 内容生产降本</text>
+    <text x="755" y="482" font-size="15" fill="#14532d">图像、语音、剧本、分镜、短视频都可由 AI 辅助。</text>
+    <text x="755" y="508" font-size="15" fill="#14532d">小团队有机会做过去影视团队才能做的内容。</text>
+    <circle cx="640" cy="342" r="92" fill="#0f172a"/>
+    <text x="640" y="328" text-anchor="middle" font-size="22" font-weight="700" fill="#f8fafc">BabelTower</text>
+    <text x="640" y="360" text-anchor="middle" font-size="15" fill="#cbd5e1">可玩短剧学习</text>
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="760" viewBox="0 0 1320 760">
+  <rect width="1320" height="760" fill="#101827"/>
+  <text x="660" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#f8fafc">The Memory Protocol 案例流程</text>
+  <text x="660" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#cbd5e1">选择积累变量，语音建立立场，见证记录决定治理路径，多结局驱动复刷</text>
+  <defs>
+    <marker id="arrow2" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto">
+      <path d="M0,0 L14,7 L0,14 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="145" width="185" height="82" rx="14" fill="#2563eb"/>
+    <text x="162" y="178" text-anchor="middle" font-size="17" font-weight="700" fill="white">N01 进入 Aster Lab</text>
+    <text x="162" y="204" text-anchor="middle" font-size="13" fill="#dbeafe">外部伦理观察员</text>
+
+    <rect x="315" y="145" width="185" height="82" rx="14" fill="#7c3aed"/>
+    <text x="407" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="white">I01 先听谁</text>
+    <text x="407" y="202" text-anchor="middle" font-size="13" fill="#ede9fe">Mira / Leo / Terminal</text>
+
+    <rect x="560" y="145" width="185" height="82" rx="14" fill="#dc2626"/>
+    <text x="652" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="white">N03 机密文件</text>
+    <text x="652" y="202" text-anchor="middle" font-size="13" fill="#fee2e2">PUBLIC CONSENT: UNVERIFIED</text>
+
+    <rect x="805" y="145" width="185" height="82" rx="14" fill="#0ea5e9"/>
+    <text x="897" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="white">I02 处理证据</text>
+    <text x="897" y="202" text-anchor="middle" font-size="13" fill="#e0f2fe">解释 / 截图 / 查同意</text>
+
+    <rect x="1050" y="145" width="185" height="82" rx="14" fill="#f97316"/>
+    <text x="1142" y="176" text-anchor="middle" font-size="17" font-weight="700" fill="white">N07-N10 冲突升级</text>
+    <text x="1142" y="202" text-anchor="middle" font-size="13" fill="#ffedd5">公开、沉默、记忆层</text>
+
+    <line x1="255" y1="186" x2="305" y2="186" stroke="#94a3b8" stroke-width="3" marker-end="url(#arrow2)"/>
+    <line x1="500" y1="186" x2="550" y2="186" stroke="#94a3b8" stroke-width="3" marker-end="url(#arrow2)"/>
+    <line x1="745" y1="186" x2="795" y2="186" stroke="#94a3b8" stroke-width="3" marker-end="url(#arrow2)"/>
+    <line x1="990" y1="186" x2="1040" y2="186" stroke="#94a3b8" stroke-width="3" marker-end="url(#arrow2)"/>
+
+    <rect x="165" y="315" width="210" height="95" rx="16" fill="#334155"/>
+    <text x="270" y="350" text-anchor="middle" font-size="18" font-weight="700" fill="white">变量积累</text>
+    <text x="270" y="376" text-anchor="middle" font-size="13" fill="#cbd5e1">trust / evidence / access</text>
+    <text x="270" y="398" text-anchor="middle" font-size="13" fill="#cbd5e1">consent / memory_key</text>
+
+    <rect x="455" y="315" width="210" height="95" rx="16" fill="#0f766e"/>
+    <text x="560" y="350" text-anchor="middle" font-size="18" font-weight="700" fill="white">语音立场</text>
+    <text x="560" y="376" text-anchor="middle" font-size="13" fill="#ccfbf1">表达伦理判断</text>
+    <text x="560" y="398" text-anchor="middle" font-size="13" fill="#ccfbf1">说服 Mira / Leo / Aria</text>
+
+    <rect x="745" y="315" width="210" height="95" rx="16" fill="#9333ea"/>
+    <text x="850" y="350" text-anchor="middle" font-size="18" font-weight="700" fill="white">N17 见证记录</text>
+    <text x="850" y="376" text-anchor="middle" font-size="13" fill="#f3e8ff">用户起草</text>
+    <text x="850" y="398" text-anchor="middle" font-size="13" fill="#f3e8ff">Mira + Leo co-sign</text>
+
+    <line x1="1142" y1="227" x2="850" y2="305" stroke="#94a3b8" stroke-width="3" marker-end="url(#arrow2)"/>
+    <line x1="375" y1="362" x2="445" y2="362" stroke="#94a3b8" stroke-width="3" marker-end="url(#arrow2)"/>
+    <line x1="665" y1="362" x2="735" y2="362" stroke="#94a3b8" stroke-width="3" marker-end="url(#arrow2)"/>
+
+    <text x="660" y="485" text-anchor="middle" font-size="20" font-weight="700" fill="#f8fafc">最终治理选择 / Ending Routes</text>
+    <rect x="70" y="525" width="185" height="90" rx="14" fill="#ef4444"/>
+    <text x="162" y="558" text-anchor="middle" font-size="17" font-weight="700" fill="white">透明城市</text>
+    <text x="162" y="584" text-anchor="middle" font-size="13" fill="#fee2e2">暂停并公开</text>
+
+    <rect x="285" y="525" width="185" height="90" rx="14" fill="#f59e0b"/>
+    <text x="377" y="558" text-anchor="middle" font-size="17" font-weight="700" fill="white">安静补丁</text>
+    <text x="377" y="584" text-anchor="middle" font-size="13" fill="#fef3c7">修补但延迟报告</text>
+
+    <rect x="500" y="525" width="185" height="90" rx="14" fill="#22c55e"/>
+    <text x="592" y="558" text-anchor="middle" font-size="17" font-weight="700" fill="white">人工覆写</text>
+    <text x="592" y="584" text-anchor="middle" font-size="13" fill="#dcfce7">人类优先控制权</text>
+
+    <rect x="715" y="525" width="185" height="90" rx="14" fill="#6366f1"/>
+    <text x="807" y="558" text-anchor="middle" font-size="17" font-weight="700" fill="white">第七段记忆</text>
+    <text x="807" y="584" text-anchor="middle" font-size="13" fill="#e0e7ff">隐藏 CASE 07-B</text>
+
+    <rect x="930" y="525" width="185" height="90" rx="14" fill="#a855f7"/>
+    <text x="1022" y="558" text-anchor="middle" font-size="17" font-weight="700" fill="white">The Whisper</text>
+    <text x="1022" y="584" text-anchor="middle" font-size="13" fill="#f3e8ff">Aria 主动泄密线</text>
+
+    <rect x="1145" y="525" width="140" height="90" rx="14" fill="#14b8a6"/>
+    <text x="1215" y="558" text-anchor="middle" font-size="17" font-weight="700" fill="white">Consent</text>
+    <text x="1215" y="584" text-anchor="middle" font-size="13" fill="#ccfbf1">Mandate</text>
+
+    <path d="M850 410 C850 470 160 470 160 515" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow2)"/>
+    <path d="M850 410 C850 470 380 470 380 515" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow2)"/>
+    <path d="M850 410 C850 470 595 470 595 515" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow2)"/>
+    <path d="M850 410 C850 470 810 470 810 515" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow2)"/>
+    <path d="M850 410 C850 470 1020 470 1020 515" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow2)"/>
+    <path d="M850 410 C850 470 1215 470 1215 515" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow2)"/>
+  </g>
+</svg>
